@@ -1,2 +1,5 @@
 # 30Days-Coding-BootCamp
-*Collection of all projetcs and resources for the 30Days coding training*
+*Collection of all projets and resources for the 30Days coding training*
+- Days meet
+- Project
+- Materials
