@@ -4,3 +4,4 @@
 - Project
 - Materials
 - Collabo
+- partner
