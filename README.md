@@ -7,3 +7,4 @@
 - partner
 - power together
 - support
+- guru
