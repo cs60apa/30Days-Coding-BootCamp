@@ -7,4 +7,4 @@
 - partner
 - power together
 - support
-- guru
+- guru sdddddd
