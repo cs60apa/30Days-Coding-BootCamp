@@ -6,5 +6,5 @@
 - Collabo
 - partner
 - power together
-- support
+- support team
 - guru sdddddd
