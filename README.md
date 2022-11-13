@@ -7,4 +7,4 @@
 - partner
 - power together
 - support team
-- guru sdddddd
+- groups
