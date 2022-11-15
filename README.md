@@ -3,7 +3,7 @@
 - Days meet four
 - Project
 - Materials
-- Collabo
+- Collaboration
 - partner
 - power together
 - support team
